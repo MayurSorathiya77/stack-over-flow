@@ -14,7 +14,7 @@ function Header() {
   
   return (
     <header>
-      <div className='header-container'>
+      <div className='header-containerr'>
         <div className='header-left'>
           <Link to='/'>
           <img src={LOGO} alt='logo' />
