@@ -4,7 +4,7 @@ const router = express.Router();
 // const mongoose = require('mongoose')
 const QuestionDB = require("../models/Question.js");
 const QuestionVote = require("../models/QuestionVoteView.js");
-const TagsObject = require("../models/AllTag");
+const TagsObject = require("../models/AllTa");
 
 
 
